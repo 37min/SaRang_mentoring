@@ -1,0 +1,4 @@
+﻿User-agent: *
+Disallow: /master/
+
+Sitemap: http://www.loveubox.org/sitemap.xml
